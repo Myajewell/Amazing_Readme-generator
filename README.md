@@ -1,1 +1,2 @@
-# Amazing_Readme-generator
+# Amazing_Readme_Generator
+README Generator
