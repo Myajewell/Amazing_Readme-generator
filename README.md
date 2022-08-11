@@ -16,12 +16,15 @@
   -[email](#email)
 
   ## screenshots:
-     
+  
+  ![screenshots](./Develop/images/readmeprompts.png)
+  ![screenshots](./Develop/images/generatedreadme.png)
+    
   ## installation: 
   Using the terminal and node.js
      
   ## usage: 
-  install node.js
+  install node.js and open the terminal, then run node index.js.
      
   ## license: 
   none

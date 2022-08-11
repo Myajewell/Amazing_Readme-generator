@@ -1,4 +1,7 @@
-# Amazing README.md Generator
+# Readme Generator
+
+  ## description:
+  generates and organized readme with prompts. 
 
   # Table of Contents
   -[description](#description)
@@ -10,15 +13,12 @@
   -[questions](#questions)
   -[username](#username)
   -[email](#email)
-      
-  ## description:
-  Generates an organized readme.mD quickley with prompts using node.js
      
   ## installation: 
-  Using the terminal and node.js
+  Install node.js
      
   ## usage: 
-  install node.js
+  Using node.js, open the terminal and run node index.js
      
   ## license: 
   none
