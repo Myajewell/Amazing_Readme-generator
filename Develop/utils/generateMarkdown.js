@@ -11,12 +11,10 @@ function renderLicenseLink(license) {}
 function renderLicenseSection(license) {}
 
 // TODO: Create a function to generate markdown for README
-// grabbed readme template from stack overflow, edited template for my code. 
-function generateMarkdown(data) {
-  return `# ${data.title}
-  # ${response.title}
+function generateMarkdown(response) {
+  return `# ${response.title}
 
-  # Table of Content
+  # Table of Contents
   -[description](#description)
   -[installation](#installation)
   -[usage](#usage)
@@ -24,32 +22,31 @@ function generateMarkdown(data) {
   -[contribution](#contribution)
   -[test](#test)
   -[username](#username)
-  -[profile](#profile)
   
-  ${response.username}
-  ##username:
-  
-      ${response.description}
-  ##description:
-  
-      ${response.installation}
-  ##installation:
-  
-      ${response.usage}
-  ##usage:
-  
-      ${response.licenses}
-  ##licenses:
-  
-      ${response.contribution}
-  ##contribution:
-  
-      ${response.test}
-  ##test:
-  
-      ${response.email}
-  ##email:
-  
+      
+  ## description:
+  ${response.description}
+     
+  ## installation: 
+  ${response.installation}
+     
+  ## usage: 
+  ${response.usage}
+     
+  ## licenses: 
+  ${response.licenses}
+     
+  ## contribution: 
+  ${response.contribution}
+      
+  ## test:
+  ${response.test}
+
+  ## username:
+  [GitHub](<a href="https://github.com/Myajewell/Amazing_Readme-generator" target="_blank">${response.username}</a>)
+     
+  ## email: 
+  [Email]${response.email}
 `;
 }
 

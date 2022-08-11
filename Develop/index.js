@@ -9,7 +9,7 @@ inquirer
 .prompt ([
 {
     type: 'input',
-    name: 'Title',
+    name: 'title',
     message: 'What is your project title?',
 },
 {
@@ -21,6 +21,11 @@ inquirer
     type: 'input',
     name: 'installation',
     message: 'What are the installation instruction for your application?',
+},
+{
+    type: 'input',
+    name: 'tests',
+    message: 'Tests?',
 },
 {
     type: 'input',
@@ -57,10 +62,12 @@ inquirer
 });
 
 // TODO: Create a function to write README file
-function writeToFile('README', data) {}
+// function writeToFile('README', data) {}
 
 // TODO: Create a function to initialize app
-function init() {}
+function init(readme) {
+
+}
 
 // Function call to initialize app
 init();
