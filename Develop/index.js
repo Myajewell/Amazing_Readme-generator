@@ -24,7 +24,7 @@ inquirer
 },
 {
     type: 'input',
-    name: 'tests',
+    name: 'test',
     message: 'Tests?',
 },
 {
@@ -60,9 +60,6 @@ inquirer
     err ? console.log(err) : console.log('successfully created Readme.md!')
     );
 });
-
-// TODO: Create a function to write README file
-// function writeToFile('README', data) {}
 
 // TODO: Create a function to initialize app
 function init(readme) {

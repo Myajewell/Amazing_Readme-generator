@@ -21,8 +21,9 @@ function generateMarkdown(response) {
   -[licenses](#licenses)
   -[contribution](#contribution)
   -[test](#test)
+  -[questions](#questions)
   -[username](#username)
-  
+  -[email](#email)
       
   ## description:
   ${response.description}
@@ -33,8 +34,8 @@ function generateMarkdown(response) {
   ## usage: 
   ${response.usage}
      
-  ## licenses: 
-  ${response.licenses}
+  ## license: 
+  ${response.license}
      
   ## contribution: 
   ${response.contribution}
@@ -42,11 +43,13 @@ function generateMarkdown(response) {
   ## test:
   ${response.test}
 
+  ## questions: Please contact me here with any questions.
+
   ## username:
-  [GitHub](<a href="https://github.com/Myajewell/Amazing_Readme-generator" target="_blank">${response.username}</a>)
+  (<a href="https://github.com/Myajewell/Amazing_Readme-generator" target="_blank">GitHub: ${response.username}</a>)
      
   ## email: 
-  [Email]${response.email}
+  ${response.email}
 `;
 }
 

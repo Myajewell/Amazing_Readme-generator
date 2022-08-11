@@ -1,4 +1,4 @@
-# practice
+# Readme.md Generator
 
   # Table of Contents
   -[description](#description)
@@ -7,29 +7,32 @@
   -[licenses](#licenses)
   -[contribution](#contribution)
   -[test](#test)
+  -[questions](#questions)
   -[username](#username)
-  
+  -[email](#email)
       
   ## description:
-  practice
+  generates readme.md
      
   ## installation: 
-  practice
+  node.js
      
   ## usage: 
-  no
+  none
      
-  ## licenses: 
-  undefined
+  ## license: 
+  none
      
-  ##contribution: 
-  me
+  ## contribution: 
+  mya washington
       
   ## test:
-  undefined
+  none
+
+  ## questions: Please contact me here with any questions.
 
   ## username:
-  [GitHub](<a href="https://github.com/Myajewell/Amazing_Readme-generator" target="_blank">myajewell</a>)
+  (<a href="https://github.com/Myajewell/Amazing_Readme-generator" target="_blank">GitHub: myajewell</a>)
      
   ## email: 
-  [Email]washingtonmya@gmail.com
+  washingtonmya@gmail.com
