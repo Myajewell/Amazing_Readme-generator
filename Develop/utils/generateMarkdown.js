@@ -14,6 +14,9 @@ function renderLicenseSection(license) {}
 function generateMarkdown(response) {
   return `# ${response.title}
 
+  ## description:
+  ${response.description}
+
   # Table of Contents
   -[description](#description)
   -[installation](#installation)
@@ -24,9 +27,6 @@ function generateMarkdown(response) {
   -[questions](#questions)
   -[username](#username)
   -[email](#email)
-      
-  ## description:
-  ${response.description}
      
   ## installation: 
   ${response.installation}

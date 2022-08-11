@@ -4,7 +4,7 @@
   -[description](#description)
   -[installation](#installation)
   -[usage](#usage)
-  -[licenses](#licenses)
+  -[license](#license)
   -[contribution](#contribution)
   -[test](#test)
   -[questions](#questions)
