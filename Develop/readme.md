@@ -1,4 +1,4 @@
-# Readme.md Generator
+# Amazing README.md Generator
 
   # Table of Contents
   -[description](#description)
@@ -12,19 +12,19 @@
   -[email](#email)
       
   ## description:
-  generates readme.md
+  Generates an organized readme.mD quickley with prompts using node.js
      
   ## installation: 
-  node.js
+  Using the terminal and node.js
      
   ## usage: 
-  none
+  install node.js
      
   ## license: 
   none
      
   ## contribution: 
-  mya washington
+  Mya Washington
       
   ## test:
   none
@@ -32,7 +32,7 @@
   ## questions: Please contact me here with any questions.
 
   ## username:
-  (<a href="https://github.com/Myajewell/Amazing_Readme-generator" target="_blank">GitHub: myajewell</a>)
+  (<a href="https://github.com/Myajewell/Amazing_Readme-generator" target="_blank">GitHub: Myajewell</a>)
      
   ## email: 
   washingtonmya@gmail.com
