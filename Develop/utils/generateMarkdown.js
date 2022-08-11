@@ -43,7 +43,9 @@ function generateMarkdown(response) {
   ## test:
   ${response.test}
 
-  ## questions: Please contact me here with any questions.
+  ## questions: 
+  
+  Please contact me here with any questions.
 
   ## username:
   (<a href="https://github.com/Myajewell/Amazing_Readme-generator" target="_blank">GitHub: ${response.username}</a>)

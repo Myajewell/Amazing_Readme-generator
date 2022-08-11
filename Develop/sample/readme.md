@@ -1,7 +1,7 @@
-# Readme Generator
+# Amazing Readme Generator
 
   ## description:
-  generates and organized readme with prompts. 
+  This generates an organized readme for your projects using node.js
 
   # Table of Contents
   -[description](#description)
@@ -18,7 +18,7 @@
   Install node.js
      
   ## usage: 
-  Using node.js, open the terminal and run node index.js
+  Instal node.js and open the terminal and run node index.js and answer the prompts.
      
   ## license: 
   none
@@ -29,7 +29,9 @@
   ## test:
   none
 
-  ## questions: Please contact me here with any questions.
+  ## questions: 
+  
+  Please contact me here with any questions.
 
   ## username:
   (<a href="https://github.com/Myajewell/Amazing_Readme-generator" target="_blank">GitHub: Myajewell</a>)
